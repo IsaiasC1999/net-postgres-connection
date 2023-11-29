@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6INxcCLsZZGh+u2gaq1O5zFNx2ptfxvmPYxlNGuD1Rrtlwc3fgcseEFPiuDWPpjlbBkZzU2JyICSYaNdl9Gqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sebastián\\Desktop\\Isaias\\proyectos-Net-7\\coneccion-postgret\\coneccion-postgret.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastián\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Sebastián\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sebastián\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
